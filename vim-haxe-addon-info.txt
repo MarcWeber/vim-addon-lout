@@ -1,0 +1,11 @@
+{
+  "name" : "vim-addon-lout",
+  "version" : "0.0",
+  "author" : "Marc Weber <marco-oweber@gmx.de>",
+  "maintainer" : "Marc Weber <marco-oweber@gmx.de>",
+  "repository" : {"type": "git", "url": "git://github.com/MarcWeber/vim-addon-lout.git"},
+  "dependencies" : {
+    "vim-addon-actions": {},
+  },
+  "description" : "compilation mappings for Vim"
+}
